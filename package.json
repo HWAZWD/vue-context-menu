@@ -1,0 +1,28 @@
+{
+  "name": "rd-cm",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "webpack": "webpack --hide-modules"
+  },
+  "dependencies": {
+    "core-js": "^3.8.3",
+    "vue": "^2.6.14"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "babel-core": "6.26.0",
+    "babel-loader": "7.1.2",
+    "babel-preset-env": "1.6.0",
+    "babel-preset-stage-3": "6.24.1",
+    "css-loader": "0.25.0",
+    "file-loader": "1.1.4",
+    "vue-loader": "13.0.5",
+    "vue-template-compiler": "^2.6.14",
+    "webpack": "3.6.0",
+    "webpack-cli": "4.9.2"
+  }
+}

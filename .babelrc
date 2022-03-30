@@ -1,0 +1,9 @@
+{
+  "presets": [
+    // 打包用
+    /* ["env", { "modules": false }],
+    "stage-3" */
+    // 测试运行用
+    "@vue/cli-plugin-babel/preset"
+  ]
+}
